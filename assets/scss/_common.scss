@@ -124,7 +124,7 @@ p {
     z-index: 5;
     @include transition(0.4s);
 	border-radius: 4px;
-	background: linear-gradient(to right, #ffc107 0%, #ee9e08 50%, #ffc107 100%);
+	background: linear-gradient(to right, #ffc107 0%, #ee9e08 50%, #ffc107 100%); //why is not changing?
 	background-size: 200% auto;
 	letter-spacing: 1px;
 	box-shadow: 0px 2px 0px 0px rgba(0, 0, 0, 0.1),inset 0px -1px 1px 0px rgba(255, 255, 255, 0.2);
